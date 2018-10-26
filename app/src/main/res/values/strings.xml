@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultimediaEnAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_captura_foto">CapturaFoto</string>
+    <string name="title_activity_captura_video">CapturaVideo</string>
+
+</resources>
